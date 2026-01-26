@@ -4,3 +4,9 @@ Hi, I'm Matthew! And while finishing up my Bachelors in Psychology, two classes,
 
 ## Table of Contents
 - [Portfolio Projects](https://github.com/mrblong12/Portfolio-Projects)
+
+## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Exploring Breast Cancer Classification with Machine Learning
+
