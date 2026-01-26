@@ -1,2 +1,3 @@
-# Data-Analytics-Portfolio
-**Portfolio Description**
+# Matthew Blong - Data Analyst Portfolio
+## About
+Hi, I'm Matthew! And while finishing up my Bachelors in Psychology, two classes, Quantitative Psychology and Psychological Archival Data Science, exposed me to the many possibilities that statistical analysis and data science had to offer. In those classes, I learned for the first time to code in both SAS and R programming languages. These experiences planted the seed for my interest in diving deeper into this field. After taking some time away from school and working as a Patient Access Specialist in the University of Colorado Emergency Department (one of the busiest in the country!), I decided to jump back into my studies and enrolled in Colorado State University's Masters in Applied Statistics Program. By furthering my education, I am hoping to gain invaluable skills in statistical analysis and programming to best prepare me as a future Data Scientist.
