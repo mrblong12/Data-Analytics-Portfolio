@@ -65,11 +65,11 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** Through a simulated population with *The Islands* website, we had participants perform various aerobic exercise of varying levels of difficulty and then complete a variety of mental aptitude tests over several weeks in order to study the relationship between exercise and cognitive acuity. 
 
-Skills: Linear Mixed Models, data visualization, data collection, hypothesis testing, repeated measures, data cleaning
+**Skills:** Linear Mixed Models, data visualization, data collection, hypothesis testing, repeated measures, data cleaning
 
-Technology: R, Excel, kableExtra, ggplot2, lme4, nlme, lmerTest, dplyr, emmeans, effects, pbkrtest, table1
+**Technology:** R, Excel, kableExtra, ggplot2, lme4, nlme, lmerTest, dplyr, emmeans, effects, pbkrtest, table1
 
-Results: We found that sleep moderated the negative effects of the highest intensity exercise type, possibly suggesting that how much sleep a participant received the night before can improve cognitive ability after physical exhaustion from aerobic exercise.
+**Results:** We found that sleep moderated the negative effects of the highest intensity exercise type, possibly suggesting that how much sleep a participant received the night before can improve cognitive ability after physical exhaustion from aerobic exercise.
 
 
 
@@ -80,13 +80,14 @@ Results: We found that sleep moderated the negative effects of the highest inten
 
 Goal: Understand how meteorological factors and air quality measurements affect (or simply have a relationship with) daily maximum temperature through various data visualizations.
 
-Description: 
+Description: Through exploring several visualizations, such as ridgeline plots, 3D scatter plots, time series plots, and correlation matrices, determine the relationships between different air quality metrics and infer their subsequent environmental impact. 
 
-Skills: R, 
+Skills: EDA, data cleaning, data visualization, linear regression, correlation
 
-Technology: 
+Technology: R, tidyverse, ggplot2, dplyr, reshape2, ggExtra, ggridges, rgl
 
-Results: 
+Results: In all, through this visual and quantitative exploration of the ‘airquality’ data set in R, we found key factors such as Ozone (ppb) and Solar Radiation (Langley) that may influence Temperature (°F), which could provide key findings toward understanding and predicting the effects of air quality on rising temperatures by encouraging further interest in how to decrease levels of pollutants that contribute toward smog-forming reactions.
+
 
 ### IBM HR Employee Attrition Rates
 **Code:** [`Employee_Attrition_Rate_Group_Project`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Employee%20Attrition%20Rate%20Group%20Project.pbix)
