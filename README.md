@@ -1,11 +1,11 @@
-# Matthew Blong - Data Analyst Portfolio
+# Matthew Blong - Data Analytics Portfolio
 ## About
 Hi, I'm Matthew! And while finishing up my Bachelors in Psychology, I took two foundational classes, Quantitative Psychology and Psychological Archival Data Science, which exposed me to the many possibilities that statistical analysis and data science had to offer. In those classes, I learned for the first time to code in both SAS and R programming languages. These experiences excited my curiosity and made me want to dive deeper into this field. After taking some time away from school and working as a Patient Access Specialist at the University of Colorado Emergency Department (one of the busiest in the country!), I decided to jump back into my studies and enrolled in Colorado State University's Masters in Applied Statistics Program. Upon graduating, I gained invaluable skills in statistical analysis and programming to prepare me as a future Data Scientist.
 
 ## Table of Contents
 - [Portfolio Projects](https://github.com/mrblong12/Portfolio-Projects)
   - Python
-      - [Exploring Breast Cancer Classification with Machine Learning](https://github.com/mrblong12/Portfolio-Projects/blob/main/Breast_Cancer_Classification_Code.ipynb)
+      - [Exploring Breast Cancer Classification with Machine Learning](https://github.com/mrblong12/Data-Analytics-Portfolio#exploring-breast-cancer-classification-with-machine-learning)
       
   - R
       - [Classification of Leopard Frogs Native to Colorado](https://github.com/mrblong12/Portfolio-Projects/blob/main/Classification%20of%20Leopard%20Frogs%20Native%20to%20Colorado.pdf)
