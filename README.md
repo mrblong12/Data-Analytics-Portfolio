@@ -21,21 +21,23 @@ Hi, I'm Matthew! And while finishing up my Bachelors in Psychology, I took two f
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
+
+
 ### Exploring Breast Cancer Classification with Machine Learning
 **Code:** [`Breast_Cancer_Classification_Code.ipynb`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Breast_Cancer_Classification_Code.ipynb)
 
 **Report:** [`Model Comparison in Breast Cancer Classification: a Machine Learning Project`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Breast%20Cancer%20Classifcation%20Project.pdf)
 
-Goal:
+Goal: compare several machine learning models (deep neural network, logistic regression, support machine vector, random forests, and XGBoost) to demonstrate which model is best suited for this classification.
 
-Description: 
+Description: Using data from the University of Wisconsin, we use test out several machine learning algorithms and after extensive fine tuning, determine which algorithm through performance metrics such as accuracy and F1 score best predicts whether digitizes breast FNA’s are malignant or benign. 
+
 
 Skills: machine learning algorithms, feature importance, fine tuning
 
 Technology: Python, pandas, random, tensorflow, numpy, sklearn, keras_tuner
 
-Results: 
-
+Results: Through our exploration of different machine learning models, we found that, after fine tuning our hyper parameters, our Support Machine Vector model produced the highest test accuracy and F1-score, which is the harmonic mean of precision and recall, for predicting malignant versus benign tumors from the Breast Cancer Wisconsin Diagnostic Data Set.
 
 
 ### Classification of Leopard Frogs Native to Colorado
@@ -43,15 +45,15 @@ Results:
 
 **Report:** [`Classification of Leopard Frogs Native to Colorado: an Exploratory Analysis`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Classification%20of%20Leopard%20Frogs%20Native%20to%20Colorado.pdf)
 
-Goal:
+Goal:  Investigate three machine learning methods (Random Forest, Multinomial Logistic Regression, and GLMET) to optimize classification between Northern Leopard Frogs, Plains Leopard Frogs, and hybrids.
 
-Description: 
+Description: After cleaning data and preliminary exploratory analysis, we test out several machine learning algorithms and after fine tuning our hyper-parameters, we determine the best algorithm to predict frog species through metrics, such as precision, recall, F1 score, and balanced accuracy.
 
 Skills: data cleaning, machine learning algorithms, data visualization, feature importance, fine tuning
 
 Technology: R, kableExtra, ggplot2, dplyr, emmeans, effects, pbkrtest, table1, tidyverse, caret, ranger, MLmetrics, C50, gbm, table1, kernlab, ggthemes
 
-Results: 
+Results: High accuracy metrics, such as precision, recall, F1 score, and balanced accuracy, across species and inherent feature selection leads us to believe that GLMNET is the best machine learning method for leopard frog species classification using categorical physical identifiers.
 
 
 
@@ -96,7 +98,7 @@ Goal:
 
 Description: 
 
-Skills: data visualization
+Skills: data visualization, data modeling
 
 Technology: Power BI
 
