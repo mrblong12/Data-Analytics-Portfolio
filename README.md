@@ -78,15 +78,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Report:** [`Final Project: an Exploration of the 'airquality' Data Set`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Air-Quality-Visualization-in-R.pdf)
 
-Goal: Understand how meteorological factors and air quality measurements affect (or simply have a relationship with) daily maximum temperature through various data visualizations.
+**Goal:** Understand how meteorological factors and air quality measurements affect (or simply have a relationship with) daily maximum temperature through various data visualizations.
 
-Description: Through exploring several visualizations, such as ridgeline plots, 3D scatter plots, time series plots, and correlation matrices, determine the relationships between different air quality metrics and infer their subsequent environmental impact. 
+**Description:** Through exploring several visualizations, such as ridgeline plots, 3D scatter plots, time series plots, and correlation matrices, determine the relationships between different air quality metrics and infer their subsequent environmental impact. 
 
-Skills: EDA, data cleaning, data visualization, linear regression, correlation
+**Skills:** EDA, data cleaning, data visualization, linear regression, correlation
 
-Technology: R, tidyverse, ggplot2, dplyr, reshape2, ggExtra, ggridges, rgl
+**Technology:** R, tidyverse, ggplot2, dplyr, reshape2, ggExtra, ggridges, rgl
 
-Results: In all, through this visual and quantitative exploration of the ‘airquality’ data set in R, we found key factors such as Ozone (ppb) and Solar Radiation (Langley) that may influence Temperature (°F), which could provide key findings toward understanding and predicting the effects of air quality on rising temperatures by encouraging further interest in how to decrease levels of pollutants that contribute toward smog-forming reactions.
+**Results:** In all, through this visual and quantitative exploration of the ‘airquality’ data set in R, we found key factors such as Ozone (ppb) and Solar Radiation (Langley) that may influence Temperature (°F), which could provide key findings toward understanding and predicting the effects of air quality on rising temperatures by encouraging further interest in how to decrease levels of pollutants that contribute toward smog-forming reactions.
 
 
 ### IBM HR Employee Attrition Rates
@@ -94,15 +94,16 @@ Results: In all, through this visual and quantitative exploration of the ‘airq
 
 **Report:** [`Power BI Attrition Rate Project`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Power%20BI%20Report.pdf)
 
-Goal:
+**Goal:** Analyze employee attrition and retention through the IBM HR simulated data set
 
-Description: 
+**Description:** With Power BI, we transformed and visualized the data, allowing for insights into what factors contribute most to attrition and how these patterns can inform a company's human resources and business strategies. Employee attrition remains a pressing concern for businesses, as it directly impacts operational costs and efficiency1. By analyzing factors salary, education, and job satisfaction with Power BI, we aim to provide actionable insights into which attributes have the most impact on employee attrition in order to develop strategies to reduce turnover and improve retention.
 
-Skills: data visualization, data modeling
 
-Technology: Power BI
+**Skills:** data visualization, data modeling, BI dashboards
 
-Results: 
+**Technology:** Power BI
+
+**Results:** Our visualizations and analyses suggest that salary is a significant factor in employee attrition, with employees in lower salary ranges exhibiting higher turnover rates, whereas education, job satisfaction, and job level also play a role albeit to a lesser extent.
 
 
 ## Education
