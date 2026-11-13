@@ -30,9 +30,9 @@ Goal:
 
 Description: 
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Skills: machine learning algorithms, feature importance, fine tuning
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technology: Python, pandas, random, tensorflow, numpy, sklearn, keras_tuner
 
 Results: 
 
@@ -47,9 +47,9 @@ Goal:
 
 Description: 
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Skills: data cleaning, machine learning algorithms, data visualization, feature importance, fine tuning
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technology: R, kableExtra, ggplot2, dplyr, emmeans, effects, pbkrtest, table1, tidyverse, caret, ranger, MLmetrics, C50, gbm, table1, kernlab, ggthemes
 
 Results: 
 
@@ -64,9 +64,9 @@ Goal:
 
 Description: 
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Skills: Linear Mixed Models, data visualization, data collection, hypothesis testing, repeated measures, data cleaning
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technology: R, kableExtra, ggplot2, lme4, nlme, lmerTest, dplyr, emmeans, effects, pbkrtest, table1
 
 Results: 
 
@@ -96,9 +96,9 @@ Goal:
 
 Description: 
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Skills: data visualization
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technology: Power BI
 
 Results: 
 
