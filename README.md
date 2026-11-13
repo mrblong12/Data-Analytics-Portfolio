@@ -14,7 +14,7 @@ Hi, I'm Matthew! And while finishing up my Bachelors in Psychology, I took two f
   - Power BI
       - [Exploring the Reasons behind Attrition](https://github.com/mrblong12/Data-Analytics-Portfolio#ibm-hr-employee-attrition-rates)
   - [Education](https://github.com/mrblong12/Data-Analytics-Portfolio#education)
-  - [Contact](https://github.com/mrblong12/Data-Analytics-Portfolio#contact)
+  - [Contact](https://github.com/mrblong12/Data-Analytics-Portfolio#contacts)
       
   
 
