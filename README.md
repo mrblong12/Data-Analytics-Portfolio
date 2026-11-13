@@ -28,16 +28,15 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Report:** [`Model Comparison in Breast Cancer Classification: a Machine Learning Project`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Breast%20Cancer%20Classifcation%20Project.pdf)
 
-Goal: compare several machine learning models (deep neural network, logistic regression, support machine vector, random forests, and XGBoost) to demonstrate which model is best suited for this classification.
+**Goal:** compare several machine learning models (deep neural network, logistic regression, support machine vector, random forests, and XGBoost) to demonstrate which model is best suited for this classification.
 
-Description: Using data from the University of Wisconsin, we use test out several machine learning algorithms and after extensive fine tuning, determine which algorithm through performance metrics such as accuracy and F1 score best predicts whether digitizes breast FNA’s are malignant or benign. 
+**Description:** Using data from the University of Wisconsin, we use test out several machine learning algorithms and after extensive fine tuning, determine which algorithm through performance metrics such as accuracy and F1 score best predicts whether digitizes breast FNA’s are malignant or benign. 
 
+**Skills:** machine learning algorithms, feature importance, fine tuning
 
-Skills: machine learning algorithms, feature importance, fine tuning
+**Technology:** Python, pandas, random, tensorflow, numpy, sklearn, keras_tuner
 
-Technology: Python, pandas, random, tensorflow, numpy, sklearn, keras_tuner
-
-Results: Through our exploration of different machine learning models, we found that, after fine tuning our hyper parameters, our Support Machine Vector model produced the highest test accuracy and F1-score, which is the harmonic mean of precision and recall, for predicting malignant versus benign tumors from the Breast Cancer Wisconsin Diagnostic Data Set.
+**Results:** Through our exploration of different machine learning models, we found that, after fine tuning our hyper parameters, our Support Machine Vector model produced the highest test accuracy and F1-score, which is the harmonic mean of precision and recall, for predicting malignant versus benign tumors from the Breast Cancer Wisconsin Diagnostic Data Set.
 
 
 ### Classification of Leopard Frogs Native to Colorado
@@ -45,15 +44,15 @@ Results: Through our exploration of different machine learning models, we found 
 
 **Report:** [`Classification of Leopard Frogs Native to Colorado: an Exploratory Analysis`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Classification%20of%20Leopard%20Frogs%20Native%20to%20Colorado.pdf)
 
-Goal:  Investigate three machine learning methods (Random Forest, Multinomial Logistic Regression, and GLMET) to optimize classification between Northern Leopard Frogs, Plains Leopard Frogs, and hybrids.
+**Goal:**  Investigate three machine learning methods (Random Forest, Multinomial Logistic Regression, and GLMET) to optimize classification between Northern Leopard Frogs, Plains Leopard Frogs, and hybrids.
 
-Description: After cleaning data and preliminary exploratory analysis, we test out several machine learning algorithms and after fine tuning our hyper-parameters, we determine the best algorithm to predict frog species through metrics, such as precision, recall, F1 score, and balanced accuracy.
+**Description:** After cleaning data and preliminary exploratory analysis, we test out several machine learning algorithms and after fine tuning our hyper-parameters, we determine the best algorithm to predict frog species through metrics, such as precision, recall, F1 score, and balanced accuracy.
 
-Skills: data cleaning, machine learning algorithms, data visualization, feature importance, fine tuning
+**Skills:** data cleaning, machine learning algorithms, data visualization, feature importance, fine tuning
 
-Technology: R, kableExtra, ggplot2, dplyr, emmeans, effects, pbkrtest, table1, tidyverse, caret, ranger, MLmetrics, C50, gbm, table1, kernlab, ggthemes
+**Technology:** R, kableExtra, ggplot2, dplyr, emmeans, effects, pbkrtest, table1, tidyverse, caret, ranger, MLmetrics, C50, gbm, table1, kernlab, ggthemes
 
-Results: High accuracy metrics, such as precision, recall, F1 score, and balanced accuracy, across species and inherent feature selection leads us to believe that GLMNET is the best machine learning method for leopard frog species classification using categorical physical identifiers.
+**Results:** High accuracy metrics, such as precision, recall, F1 score, and balanced accuracy, across species and inherent feature selection leads us to believe that GLMNET is the best machine learning method for leopard frog species classification using categorical physical identifiers.
 
 
 
@@ -62,15 +61,15 @@ Results: High accuracy metrics, such as precision, recall, F1 score, and balance
 
 **Report:** [`Effects of Exercise and Sleep on Cognitive Function: a Repeated Measures Study`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Effects%20of%20Exercise%20and%20Sleep%20on%20Cognitive%20Function.pdf)
 
-Goal:
+**Goal:** Understand how varying levels of aerobic exercise intensity and sleep duration affect performance on mental aptitude tests measuring attention, memory, and mental arithmetic.
 
-Description: 
+**Description:** Through a simulated population with *The Islands* website, we had participants perform various aerobic exercise of varying levels of difficulty and then complete a variety of mental aptitude tests over several weeks in order to study the relationship between exercise and cognitive acuity. 
 
 Skills: Linear Mixed Models, data visualization, data collection, hypothesis testing, repeated measures, data cleaning
 
-Technology: R, kableExtra, ggplot2, lme4, nlme, lmerTest, dplyr, emmeans, effects, pbkrtest, table1
+Technology: R, Excel, kableExtra, ggplot2, lme4, nlme, lmerTest, dplyr, emmeans, effects, pbkrtest, table1
 
-Results: 
+Results: We found that sleep moderated the negative effects of the highest intensity exercise type, possibly suggesting that how much sleep a participant received the night before can improve cognitive ability after physical exhaustion from aerobic exercise.
 
 
 
@@ -79,13 +78,13 @@ Results:
 
 **Report:** [`Final Project: an Exploration of the 'airquality' Data Set`](https://github.com/mrblong12/Portfolio-Projects/blob/main/Air-Quality-Visualization-in-R.pdf)
 
-Goal:
+Goal: Understand how meteorological factors and air quality measurements affect (or simply have a relationship with) daily maximum temperature through various data visualizations.
 
 Description: 
 
-Skills: data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+Skills: R, 
 
-Technology: Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+Technology: 
 
 Results: 
 
